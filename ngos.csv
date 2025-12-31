@@ -1,0 +1,4 @@
+ngo_id,ngo_name,area,latitude,longitude,people_count,current_food_stock_kg,last_7day_demand_kg
+N1,Coimbatore HIV Care Trust,Peelamedu,11.0300,77.0040,120,10,180
+N2,Ullor Nala Sangam,RS Puram,11.0100,76.9500,80,5,130
+N3,Hope NGO,Gandhipuram,11.0175,76.9570,200,15,250 

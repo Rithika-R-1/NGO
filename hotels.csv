@@ -1,0 +1,4 @@
+hotel_id,hotel_name,area,latitude,longitude,extra_food_kg,last_7day_waste_kg
+H1,Annapoorna Hotel,Gandhipuram,11.0168,76.9558,25,120
+H2,Sri Krishna Sweets,RS Puram,11.0085,76.9515,10,60
+H3,Hotel Junior Kuppanna,Peelamedu,11.0292,77.0025,40,180
